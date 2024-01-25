@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently studying Electrical & Computer Engineering at National Technical University of Athens (NTUA)
+- 🔭 I’m currently working on non-profit team-project Oceanos NTUA, a university team which participates in Monaco Energy Boat Challenge (MEBC) (we design and implement out own battery-powered boat). I am responsible for the visualization of monitoring boat data and the transmission of these data to a remote web host.
